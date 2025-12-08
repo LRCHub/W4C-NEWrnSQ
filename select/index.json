@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ザ・ナイツ",
+  "base_artist": "Avicii",
+  "createdAt": "2025-12-08T08:05:53.750228Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Nights",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_01_The_Nights_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Nights",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_02_The_Nights_アヴィーチー.txt"
+    }
+  ]
+}
